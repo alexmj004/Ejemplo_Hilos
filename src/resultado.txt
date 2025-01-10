@@ -1,0 +1,4 @@
+Número: 1, Hilo1, Tiempo: 0 ms, NO PRIMO
+Número: 2, Hilo2, Tiempo: 0 ms, PRIMO
+Número: 3, Hilo3, Tiempo: 0 ms, PRIMO
+Número: 4, Hilo4, Tiempo: 0 ms, NO PRIMO
